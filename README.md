@@ -1,0 +1,1 @@
+# Analysing-Salary-pattern-in-powerbi-2
